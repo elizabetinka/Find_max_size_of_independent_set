@@ -10,5 +10,6 @@ The adjacency list format:
 The graph with edges a-b, a-c, d-e can be represented as the following adjacency list (anything following the # in a line is a comment):
 
 a b c # source target target
+
 d e
 
